@@ -4,6 +4,5 @@
 ```this is me if u even care...```
 
 <!---
-YosyWozzy/YosyWozzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+puto the one who reads 
 --->
